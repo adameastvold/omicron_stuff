@@ -1,3 +1,3 @@
 # omicron_stuff
 
-this change was made remotely
+This was used during lecture to demonstrate editing remotely.
